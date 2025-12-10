@@ -4,6 +4,15 @@
 
 Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursando o ensino médio técnico. Tenho experiência em front-end, back-end e banco de dados, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. Sou apaixonada por aprender, evoluir e transformar conhecimento em soluções práticas e inovadoras.
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
