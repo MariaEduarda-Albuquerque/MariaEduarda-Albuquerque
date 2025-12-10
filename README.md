@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Olá me chamo Maria Eduarda Albuquerque, tenho 17 anos e moro em São Paulo. Estou no ensino médio na ETEC no curso de Desenvolvimento de Sistemas e tenho competências em front-end, back-end e banco de dados.
+Olá me chamo Maria Eduarda, tenho 17 anos e moro em São Paulo. Estou no ensino médio na ETEC no curso de Desenvolvimento de Sistemas e tenho competências em front-end, back-end e banco de dados.
 
 ### 🤖 Linguagens e Tecnologias
 
