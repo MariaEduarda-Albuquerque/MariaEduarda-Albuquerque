@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Olá me chamo Maria Eduarda, tenho 17 anos e moro em São Paulo. Estou no ensino médio na ETEC no curso de Desenvolvimento de Sistemas e tenho competências em front-end, back-end e banco de dados.
+Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursando o ensino médio técnico. Tenho experiência em front-end, back-end e banco de dados, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. Sou apaixonada por aprender, evoluir e transformar conhecimento em soluções práticas e inovadoras.
 
 ### 🤖 Linguagens e Tecnologias
 
