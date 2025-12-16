@@ -5,7 +5,7 @@
 Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursando o ensino médio técnico. Tenho experiência em front-end, back-end e banco de dados, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. Sou apaixonada por aprender, evoluir e transformar conhecimento em soluções práticas e inovadoras.
 
 #
-<img align="right" alt="" height="190px" src="./src/study.gif">
+
 
 <h3 align="left">Connect with me!</h3>
 
@@ -19,51 +19,69 @@ Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursa
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="32px" 
+    style="padding-right: 18px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="32px" 
+    style="padding-right: 18px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="32px" 
+    style="padding-right: 18px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 18px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="35px" 
-    style="padding-right: 10px;"  
+    width="46px" 
+    style="padding-right: 18px; position: relative; top: -4px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img
     align="left" 
     alt="SQLServer" 
     title="SQLServer"
-    width="35px" 
-    style="padding-right: 10px;"  
+    width="46px" 
+    style="padding-right: 18px; position: relative; top: -4px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
 />
-          
+<img
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="46px" 
+    style="padding-right: 18px; position: relative; top: -6px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+<img
+    align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="46px" 
+    style="padding-right: 18px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+/>
+
+<br clear="left"/>
+
 <br/>
 <br/>
 
