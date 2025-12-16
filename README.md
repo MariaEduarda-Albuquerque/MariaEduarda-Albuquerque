@@ -59,18 +59,19 @@ Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursa
     align="left" 
     alt="SQLServer" 
     title="SQLServer"
-    width="46px" 
-    style="padding-right: 18px; position: relative; top: -4px;"  
+    width="40px" 
+    style="padding-right: 18px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
 />
 <img
     align="left" 
     alt="Java" 
     title="Java"
-    width="46px" 
+    width="40px" 
     style="padding-right: 18px; position: relative; top: -6px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+          
 <img
     align="left" 
     alt="NodeJS" 
