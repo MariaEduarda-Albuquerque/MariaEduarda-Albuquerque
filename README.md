@@ -1,95 +1,34 @@
-# 👩🏻‍💻 Maria Eduarda
-
+# Maria Eduarda
 **`Desenvolvedora FullStack`**
-
+ 
 Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursando o ensino médio técnico. Tenho experiência em front-end, back-end e banco de dados, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
-
+ 
+Em busca de oportunidade como **estagiária** ou **desenvolvedora júnior** em desenvolvimento web.
+ 
 #
-
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)]()
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]()
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
-
- **🤖 Linguagens e Tecnologias**
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="32px" 
-    style="padding-right: 18px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="32px" 
-    style="padding-right: 18px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="32px" 
-    style="padding-right: 18px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="40px" 
-    style="padding-right: 18px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="46px" 
-    style="padding-right: 18px; position: relative; top: -4px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img
-    align="left" 
-    alt="SQLServer" 
-    title="SQLServer"
-    width="40px" 
-    style="padding-right: 18px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
-/>
-<img
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="40px" 
-    style="padding-right: 18px; position: relative; top: -6px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-          
-<img
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="46px" 
-    style="padding-right: 18px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
-/>
-
-<br clear="left"/>
-
-<br/>
-<br/>
-
-#
-
-**📊 Estatísticas**
-
+ 
+<h3 align="left">Contato</h3>
+ 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:SEU-EMAIL-AQUI@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/SEU-USUARIO-INSTAGRAM/)
+ 
+ 
+**Linguagens e Tecnologias**
+ 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+</p>
+ 
+**Estatísticas**
+ 
 <img
     align="left" 
     alt="GitHub Stats" 
@@ -97,7 +36,6 @@ Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursa
     style="padding-right: 10px;"  
     src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Albuquerque&show_icons=true&theme=dracula&include_all_comits=true&locale=pt-br" 
 />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -107,6 +45,6 @@ Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursa
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake.svg">
 </picture>
   
