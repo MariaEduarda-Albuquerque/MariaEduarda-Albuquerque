@@ -32,7 +32,7 @@ Em busca de oportunidade como **estagiária** ou **desenvolvedora júnior** em d
 
 **Projetos em Destaque**
 
-- 🔗 [Nome do Projeto 1](https://github.com/MariaEduarda-Albuquerque/Projeto-Salao-de-festas) — breve descrição do que faz e tecnologias usadas
+- 🔗 [Salão de festas](https://github.com/MariaEduarda-Albuquerque/Projeto-Salao-de-festas) — Site institucional de salão de festas, desenvolvido com HTML, CSS e JavaScript.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake-dark.svg">
