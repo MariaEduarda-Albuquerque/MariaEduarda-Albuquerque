@@ -15,20 +15,11 @@ Em busca de oportunidade como **estagiária** ou **desenvolvedora júnior** em d
  
  
 **Linguagens e Tecnologias**
- 
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" title="HTML5" alt="HTML5" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" title="CSS3" alt="CSS3" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" title="JavaScript" alt="JavaScript" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" title="PHP" alt="PHP" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" title="MySQL" alt="MySQL" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftsqlserver.svg" title="SQL Server" alt="SQL Server" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openjdk.svg" title="Java" alt="Java" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nodedotjs.svg" title="Node.js" alt="Node.js" height="48"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,nodejs" alt="Linguagens e Tecnologias" height="48"/>
+ </p>
 
-
- 
 **Estatísticas**
  
 <img
