@@ -29,14 +29,14 @@ Em busca de oportunidade como **estagiária** ou **desenvolvedora júnior** em d
 </p>
 
 
-
+#
 **Projetos em Destaque**
 
 - 🔗 [Salão de festas](https://github.com/MariaEduarda-Albuquerque/Projeto-Salao-de-festas) — Site institucional de salão de festas, desenvolvido com HTML, CSS e JavaScript.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake.svg">
 </picture>
   
