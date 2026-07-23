@@ -28,21 +28,12 @@ Em busca de oportunidade como **estagiária** ou **desenvolvedora júnior** em d
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" height="48"/>
 </p>
 
-**Estatísticas**
- 
-<img
-    align="left" 
-    alt="GitHub Stats" 
-    height="200px" 
-    style="padding-right: 10px;"  
-    src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Albuquerque&show_icons=true&theme=dracula&include_all_comits=true&locale=pt-br" 
-/>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Albuquerque&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+
+
+**Projetos em Destaque**
+
+- 🔗 [Nome do Projeto 1](https://github.com/MariaEduarda-Albuquerque/Projeto-Salao-de-festas) — breve descrição do que faz e tecnologias usadas
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake-dark.svg">
