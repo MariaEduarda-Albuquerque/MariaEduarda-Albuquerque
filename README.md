@@ -17,14 +17,14 @@ Em busca de oportunidade como **estagiária** ou **desenvolvedora júnior** em d
 **Linguagens e Tecnologias**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" height="44"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" height="44"/> 
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" alt="SQLServer" height="44"/>
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" height="44"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="44"/>
- <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" height="44"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" height="44"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" height="49"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" height="49"/> 
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="49"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" alt="SQLServer" height="49"/>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" height="49"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="49"/>
+ <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" height="49"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" height="49"/>
 </p>
 
 **Estatísticas**
