@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursando o ensino médio técnico. Tenho experiência em front-end, back-end e banco de dados, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. Sou apaixonada por aprender, evoluir e transformar conhecimento em soluções práticas e inovadoras.
+Estudante de Desenvolvimento de Sistemas na ETEC de São Paulo, atualmente cursando o ensino médio técnico. Tenho experiência em front-end, back-end e banco de dados, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
 #
 
