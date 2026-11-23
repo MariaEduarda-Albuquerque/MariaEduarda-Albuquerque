@@ -1,101 +1,51 @@
-<div align="center">
-
 # Maria Eduarda Albuquerque
 
-**Estudante de Desenvolvimento de Sistemas · Suporte Técnico · Desenvolvimento Web**
+**`Estudante de Desenvolvimento de Sistemas`**
 
-![ETEC](https://img.shields.io/badge/ETEC-Guaianases-FF00F6?style=for-the-badge)
-![Inglês](https://img.shields.io/badge/Inglês-Intermediário-000000?style=for-the-badge)
-![Local](https://img.shields.io/badge/São_Paulo-SP-000000?style=for-the-badge)
+Estudante do curso técnico em Desenvolvimento de Sistemas na ETEC de Guaianases (conclusão em 2026), cursando também o ensino médio. Tenho conhecimento em front-end, back-end, banco de dados e sistemas embarcados, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. Inglês intermediário (fala e escreve).
 
-<br>
-
-Estudante do curso técnico em Desenvolvimento de Sistemas na ETEC de Guaianases (conclusão em 2026).<br>
-Tenho conhecimento em front-end, back-end, banco de dados e sistemas embarcados.<br>
 Em busca de oportunidade de **estágio** ou **vaga júnior** em **suporte técnico** ou **desenvolvimento**.
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:mariaeduarda.albuquerque144@gmail.com)
+---
 
-</div>
+### Contato
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:mariaeduarda.albuquerque144@gmail.com)
 
 ---
 
-<h2 align="center">Tecnologias</h2>
+### Linguagens e Tecnologias
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><b>Front-end</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript" height="48"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Back-end</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php,laravel,java,python,nodejs" alt="PHP, Laravel, Java, Python e Node.js" height="48"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React Native" height="48"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Banco de dados</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="48"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Sistemas embarcados</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,arduino" alt="C++ e Arduino" height="48"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Ferramentas</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48"/></td>
-  </tr>
-</table>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="48"/>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" height="48"/>
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React Native" alt="React Native" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" height="48"/>
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" alt="Arduino" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="48"/>
+</p>
 
 ---
 
-<h2 align="center">Projetos em Destaque</h2>
+### Projetos em Destaque
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/MariaEduarda-Albuquerque/Venus-App">Venus-App</a></b><br>
-      <sub>TCC 2026 · ETEC de Guaianases</sub><br><br>
-      Aplicativo mobile de saúde feminina voltado a adolescentes, com foco em prevenção da gravidez na adolescência e de ISTs.<br><br>
-      <code>PHP</code>
-    </td>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/MariaEduarda-Albuquerque/Projetos-Sistemas-Embarcados">Sistemas Embarcados</a></b><br>
-      <sub>Projetos com Arduino</sub><br><br>
-      Lógica digital, automação e controle de hardware.<br><br>
-      <code>C++</code> <code>Arduino</code>
-    </td>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/MariaEduarda-Albuquerque/Projeto-Salao-de-festas">Salão de Festas</a></b><br>
-      <sub>Site institucional</sub><br><br>
-      Site de apresentação de um salão de festas.<br><br>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-    </td>
-  </tr>
-</table>
+- 🔗 [Venus-App](https://github.com/MariaEduarda-Albuquerque/Venus-App) — Aplicativo mobile de saúde feminina voltado a adolescentes, com foco em prevenção da gravidez na adolescência e de ISTs. TCC 2026, ETEC de Guaianases.
+- 🔗 [Sistemas Embarcados](https://github.com/MariaEduarda-Albuquerque/Projetos-Sistemas-Embarcados) — Projetos com Arduino em C++: lógica digital, automação e controle de hardware.
+- 🔗 [Salão de Festas](https://github.com/MariaEduarda-Albuquerque/Projeto-Salao-de-festas) — Site institucional desenvolvido com HTML, CSS e JavaScript.
 
-<br>
+**Mini-projetos desenvolvidos durante o curso técnico:**
+[Java](https://github.com/MariaEduarda-Albuquerque/Mini-Projetos-Java) · [PHP](https://github.com/MariaEduarda-Albuquerque/Mini-Projetos-PHP) · [HTML, CSS e JavaScript](https://github.com/MariaEduarda-Albuquerque/Mini-Projetos-HTML-CSS-JS)
 
-<sub>Mini-projetos do curso técnico:</sub>
-<a href="https://github.com/MariaEduarda-Albuquerque/Mini-Projetos-Java">Java</a> ·
-<a href="https://github.com/MariaEduarda-Albuquerque/Mini-Projetos-PHP">PHP</a> ·
-<a href="https://github.com/MariaEduarda-Albuquerque/Mini-Projetos-HTML-CSS-JS">HTML, CSS e JavaScript</a>
-</div>
-
----
-
-<div align="center">
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake.svg">
-  <img alt="Gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MariaEduarda-Albuquerque/MariaEduarda-Albuquerque/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
